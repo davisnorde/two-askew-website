@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="44px" viewBox="0 0 22 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-min</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-v4" transform="translate(-160.000000, -40.000000)">
+            <g id="logo-min" transform="translate(160.000000, 40.000000)">
+                <rect id="red" fill="#EC344C" transform="translate(5.413860, 15.136764) rotate(-14.000000) translate(-5.413860, -15.136764) " x="4.1446295" y="-0.0940052957" width="2.53846154" height="30.4615385" rx="1.26923077"></rect>
+                <rect id="gray" fill="#A5ACB5" transform="translate(16.301616, 28.545453) rotate(16.000000) translate(-16.301616, -28.545453) " x="15.0323854" y="13.3146841" width="2.53846154" height="30.4615385" rx="1.26923077"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
